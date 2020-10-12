@@ -5,8 +5,14 @@
 [GitHub and its parent company Microsoft willingly collaborate with those
 who operate concentration
 camps.](https://sneak.berlin/20200307/the-case-against-microsoft-and-github/)
-People who oppose concentration camps have a moral obligation to shop
-elsewhere.
+
+[Many in the open source community have asked Microsoft/GitHub to stop
+providing services to these people, and they have plainly
+refused.](https://www.vice.com/en/article/m7jpgy/open-source-community-changing-github-avatars-drop-ice)
+
+People who oppose concentration camps and support human rights have a moral
+obligation to shop elsewhere.  Do not continue to donate value to the
+Microsoft/GitHub ecosystem.
 
 I have migrated my repositories [away from here](https://git.eeqj.de/sneak), and [so should you](https://sr.ht).
 
