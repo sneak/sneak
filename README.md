@@ -1,16 +1,17 @@
-### Hi there 👋
+# sneak.berlin
 
-<!--
-**sneak/sneak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stop using GitHub.**
 
-Here are some ideas to get you started:
+[GitHub and its parent company Microsoft willingly collaborate with those
+who operate concentration
+camps.](https://sneak.berlin/20200307/the-case-against-microsoft-and-github/)
+People who oppose concentration camps have a moral obligation to shop
+elsewhere.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have migrated my repositories [away from here](https://git.eeqj.de/sneak), and [so should you](https://sr.ht).
+
+# Elsewhere
+
+* [sneak@sneak.berlin](mailto:sneak@sneak.berlin)
+    * [5539AD00DE4C42F3AFE11575052443F4DF2A55C2](https://sneak.berlin/.well-known/pgpkey.txt)
+* [https://sneak.berlin](https://sneak.berlin)
