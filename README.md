@@ -1,4 +1,6 @@
-# sneak.berlin
+<h1>REPOS HAVE MOVED <a href="https://git.eeqj.de/sneak">HERE</a>.</h1>
+
+# @sneak ([https://sneak.berlin](https://sneak.berlin))
 
 **Stop using GitHub.**
 
