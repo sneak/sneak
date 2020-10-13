@@ -22,7 +22,10 @@ People who oppose concentration camps and support human rights have a moral
 obligation to shop elsewhere.  Do not continue to donate value to the
 Microsoft/GitHub ecosystem.
 
-I have migrated my repositories [away from here](https://git.eeqj.de/sneak), and [so should you](https://sr.ht).
+I have migrated my repositories [away from here](https://git.eeqj.de/sneak),
+and [so should you](https://sr.ht).  (Don't switch to GitLab, they have [the
+same
+problem](https://www.theregister.com/2019/10/16/gitlab_employees_gagged/).)
 
 # Elsewhere
 
